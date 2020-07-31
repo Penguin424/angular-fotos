@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 120,
+  "editor.formatOnSave": true,
+  "prettier.arrowParens": "always",
+  "prettier.bracketSpacing": false,
+  "html.format.wrapAttributes": "preserve-aligned",
+  "html.format.endWithNewline": true,
+  "html.format.wrapLineLength": 150,
+  "html.format.maxPreserveNewLines": 150,
+  "html.autoClosingTags": false
+}
